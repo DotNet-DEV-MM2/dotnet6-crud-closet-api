@@ -13,5 +13,6 @@ namespace dotnet6_crud_closet_api.Entities
 
         [JsonIgnore]
         public string PasswordHash { get; set; }
+        public ICollection<ClosetItem> ClosetItems { get; set; }
     }
 }

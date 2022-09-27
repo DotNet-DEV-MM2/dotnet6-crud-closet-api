@@ -20,5 +20,6 @@ namespace dotnet6_crud_closet_api.Helpers
         }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<ClosetItem> ClosetItems { get; set; }
     }
 }
