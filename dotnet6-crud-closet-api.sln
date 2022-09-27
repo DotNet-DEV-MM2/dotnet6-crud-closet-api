@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet6-crud-closet-api", "dotnet6-crud-closet-api\dotnet6-crud-closet-api.csproj", "{A0B30AC0-9AD3-4E98-A1AA-B18AC1421EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0B30AC0-9AD3-4E98-A1AA-B18AC1421EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B30AC0-9AD3-4E98-A1AA-B18AC1421EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B30AC0-9AD3-4E98-A1AA-B18AC1421EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B30AC0-9AD3-4E98-A1AA-B18AC1421EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9562990-3D48-4018-9651-B68F68942AF3}
+	EndGlobalSection
+EndGlobal

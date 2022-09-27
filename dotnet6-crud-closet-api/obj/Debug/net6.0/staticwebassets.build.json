@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qJJRXc+t7qtaprvi9VAd+KArBvI/zq5s07B0e0UddmY=",
+  "Source": "dotnet6-crud-closet-api",
+  "BasePath": "_content/dotnet6-crud-closet-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
